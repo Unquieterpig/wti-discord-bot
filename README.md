@@ -1,5 +1,5 @@
 # wti-discord-bot
-A simple discord bot that can interface with assorted WTI products
+A simple discord bot that can interface with assorted WTI devices
 
 
 # How to start the bot
